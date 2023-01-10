@@ -71,4 +71,4 @@ Berisi 2 file, yaitu:
 
 ---
 
-# thanks to melviandanuw
+thanks to melviandanuw
