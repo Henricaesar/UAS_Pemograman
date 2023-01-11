@@ -71,4 +71,4 @@ Berisi 2 file, yaitu:
 
 ---
 
-thanks to melviandanuw
+Don't forget to see my [henricaesar.github.io](henricaesar.github.io/)
