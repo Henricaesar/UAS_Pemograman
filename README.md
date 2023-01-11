@@ -71,4 +71,4 @@ Berisi 2 file, yaitu:
 
 ---
 
-Don't forget to see my [henricaesar.github.io](henricaesar.github.io)
+Don't forget to say thank you for human on this github 
